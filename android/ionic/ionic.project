@@ -1,0 +1,10 @@
+{
+  "name": "agm-hackathon",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/agm",
+      "proxyUrl": "https://agilemanager-int.saas.hp.com/agm"
+    }
+    ]
+}
